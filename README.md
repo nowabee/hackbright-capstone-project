@@ -1,1 +1,2 @@
-# hackbright-capstone-project
+# Hackbright-capstone-project
+This project involves developing a python script designed to scan a user's network to identify IoT devices, assess these devices for vulnerabilities, and provide actionable recommendations for resolving any identified security issues. The focus will be on ensuring that non-tech-savvy users can easily secure their smart homes by offering practical, easy-to-follow advice for enhancing the security of their IoT devices.
